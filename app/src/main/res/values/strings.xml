@@ -1,0 +1,13 @@
+<resources>
+    
+	<string name="app_name">TextView特效</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">��ӭ�μӽ���ʡ��ѧ��&lt;font color=red&gt;
+        				 �ֻ���������&lt;/font&gt;</string>
+    <string name="content">��</string>
+    <string name="info">如有疑问请联系我们\n联系电话： 0791-83840363
+        \nE-mail： iet2011@163.com
+        \n网址 http://iet.jxufe.cn </string>
+</resources>
+
+
